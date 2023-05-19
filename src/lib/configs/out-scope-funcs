@@ -1,0 +1,14 @@
+early_init_intel
+bsp_init_intel
+pci_swiotlb_init
+init_intel
+intel_pconfig_init
+audit_classes_init
+init_menu
+proc_interrupts_init
+efi_shutdown_init
+pci_swiotlb_late_init
+pci_swiotlb_detect_override
+intel_detect_tlb
+date_show
+time_show
